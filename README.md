@@ -78,10 +78,3 @@ Disclaimer
 ----------
 
 We will not use any of this code for any of Plum's applications.
-# plum_software-engineer-task-master
-# yusufaras104-plum_software-engineer-task-master
-# yusufaras104-plum_software-engineer-task-master
-# yusufaras104-plum_software-engineer-task-master
-# yusufaras104-plum_software-engineer-task-master
-# -yusufaras104-plum_software-engineer-task-master0
-# -yusufaras104-plum_software-engineer-task-master0
